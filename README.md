@@ -35,6 +35,6 @@ Fare Calculation Logic
 Output Screenshot
 
 <p align="center">
-  <img src="images/output.png" width="500">
+  <img src="image/output.png" width="500">
 </p>
 
